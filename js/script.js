@@ -24,7 +24,7 @@
 Проверить, чтобы все работало без ошибок в консоли */
 
 
-const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
+/* const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
 const personalMovieDB = {
     count: numberOfFilms,
     movies: {},
@@ -41,4 +41,4 @@ const a = prompt('Один из последних просмотренных ф
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
-console.log(personalMovieDB);
+console.log(personalMovieDB); */
